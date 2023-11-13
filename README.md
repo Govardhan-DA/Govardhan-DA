@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Govardhan-DA
 - 👀 I’m interested in Data analytics
 - 🌱 I’m currently learning Data analytics
-- 💞️ I’m looking to collaborate with someone similar interest 
+- 💞️ I’m looking to collaborate with someone has similar interest 
 - 📫 How to reach me ...
 
 <!---
